@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomListView1</string>
+    <string name="image_description">descriptionImage</string>
+    <string name="text_description">Office365</string>
+</resources>
